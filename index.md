@@ -1,7 +1,7 @@
 ![Snek Logo](https://raw.githubusercontent.com/SnekCrypto/Snek/gh-pages/LOGO.png "SNEK")
 
 #### Snek Go Hiss
- <div class="header">
+ <div class="Snek Go Hiss">
   <h1>Header</h1>
-  <p>Snek Go Hiss</p>
+  <p>Info to Come</p>
 </div> 
